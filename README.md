@@ -1,2 +1,4 @@
 # dio-desafio
-Desafio do primeiro Git/GitHub
+Desafio do primeiro repositorio
+
+## Links úteis
